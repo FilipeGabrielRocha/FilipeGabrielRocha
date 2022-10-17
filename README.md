@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/FilipeGabrielRocha">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeGabrielRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeGabrielRocha&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeGabrielRocha&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeGabrielRocha&layout=compact&langs_count=6&theme=cobalt"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -23,6 +23,7 @@
 <div>
   <a href="https://www.instagram.com/_filiperochaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-gabriel-rocha-a4446516a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://web.facebook.com/filipe.rocha.1441" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/FilipeGabrielRocha/FilipeGabrielRocha/blob/output/github-contribution-grid-snake.svg)
 
