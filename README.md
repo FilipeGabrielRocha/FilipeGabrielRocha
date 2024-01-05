@@ -1,4 +1,5 @@
-# Bem-vindo(a), eu sou Filipe Gabriel Rocha 😁
+# Bem-vindo(a) ao meu perfil! 😁
+Olá, eu sou Filipe Gabriel Rocha, um homem de um metro e oitenta e um centímetros de altura. Meus cabelos e olhos são castanhos escuros, e uso óculos. Sou de pele branca e tenho interesses variados, como jogar video games, assistir séries e filmes, ler livros e por último, mas não menos importante, programar. Minha paixão pela programação começou durante a pandemia de 2020, e desde então venho estudando e aprimorando minhas habilidades nesse fascinante mundo da programação.
 
 ## Habilidades
 <div style="display: flex"><br>
