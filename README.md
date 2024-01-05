@@ -18,7 +18,7 @@ Olá, eu sou Filipe Gabriel Rocha, um homem de um metro e oitenta e um centímet
 
 </div>
 
-## Minhas Atribuições
+## Minhas Principais Atribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipeGabrielRocha&repo=projetos-filmes&show_icons=true&theme=cobalt)](https://github.com/FilipeGabrielRocha/projetos-filmes)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FilipeGabrielRocha&repo=siteMarioBros&show_icons=true&theme=cobalt)](https://github.com/FilipeGabrielRocha/siteMarioBros)
